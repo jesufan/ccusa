@@ -1,2 +1,2 @@
 # ccusa
-expo react native app for crypto currency in usa
+expo react native mobile application by obtain information about crypto currency in USD.
