@@ -1,5 +1,5 @@
 # ccusa
-expo react native mobile application by obtain information about crypto currency in USD by Jesus Pinedo
+Expo react native mobile application by obtain information about crypto currency in USD by Jesus Pinedo
 
 Requirements
 To use Expo, you need to have the following tools installed on your machine:
